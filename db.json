@@ -1,0 +1,24 @@
+{
+  "sites": [
+    {
+      "nome": "Google",
+      "url": "www.google.com",
+      "id": 1
+    },
+    {
+      "nome": "Facebook",
+      "url": "www.facebook.com",
+      "id": 2
+    },
+    {
+      "nome": "Yahoo",
+      "url": "www.yahoo.com",
+      "id": 3
+    },
+    {
+      "nome": "teste",
+      "url": "teste",
+      "id": 4
+    }
+  ]
+}

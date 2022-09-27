@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+
+  ,"scripts": {
+    "backend": "json-server --watch db.json",
+    "serve": "vue-cli-sevice serve",
+    "build" : "vue-cli-service build",
+    "start": "babel-node -- db.json -r routes.json"
+  }
+
+
+}
