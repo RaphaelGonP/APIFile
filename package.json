@@ -8,6 +8,7 @@
     "backend": "json-server --watch db.json",
     "serve": "vue-cli-sevice serve",
     "build": "vue-cli-service build",
-    "start": "babel-node -- db.json -r routes.json"
+    "start": "npm start",
+    "start2": "babel-node -- db.json -r routes.json"
   }
 }
